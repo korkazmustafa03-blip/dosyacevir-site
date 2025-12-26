@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.https://dosyacevir.com.tr/sitemap.xml
